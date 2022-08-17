@@ -7,12 +7,14 @@ div{
 }
 
 /* Foto de Perfil*/
+
+
 @media (min-width: 576px) {
     #foto-perfil{
         position: absolute;
-        width: 20%;
-        height: 45%;
-        border-radius: 100%;
+        width: 19%;
+        height: 38%;
+        border-radius: 50%;
         left: 0;
         padding: 5px;
         top: 600px;
@@ -23,8 +25,8 @@ div{
     #foto-perfil{
         position: absolute;
         width: 30%;
-        height: 40%;
-        border-radius: 100%;
+        height: 30%;
+        border-radius: 50%;
         left: 36%;
         padding: 5px;
         top: 630px;
